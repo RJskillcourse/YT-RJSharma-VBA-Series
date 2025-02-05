@@ -15,7 +15,7 @@ This repository contains practice files, scripts, and tutorials that complement 
 
 ## 🎥 Watch the Video Series
 Follow along with the **step-by-step tutorials** on my YouTube channel **RJ Sharma**:  
-📺 [Watch VBA Series]([https://www.youtube.com/@RJSharma2024])
+📺 [Watch VBA Series][https://www.youtube.com/@RJSharma2024]
 
 ## 🚀 How to Use?
 1. **Download or Clone** this repository:
